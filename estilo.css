@@ -1,0 +1,36 @@
+body{
+    text-align: center ;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(101, 168, 223);
+
+}
+
+img{
+    height: 400px;
+    width: auto;
+}
+
+.navegacion{
+    background-color: rgb(200, 221, 255);
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    height: fit-content;
+    width: auto;
+
+    border-style: solid;
+    border-color: li;
+}
+
+footer{
+    background-color: rgb(200, 221, 255);
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 20px;
+    border-style: solid;
+
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
